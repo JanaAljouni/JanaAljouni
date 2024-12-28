@@ -1,14 +1,12 @@
 info = {
-   "Pronoun": "her", 
-   "Name": "Vicky",
-   "Full_Name": "Vicky Kuo",
-   "Intro": "A Tech Educator and AI Enthusiast at cognitiveclass.ai",
-   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
-   "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
-   "Medium":"https://medium.com/@vicky-note/about",
-   "City":"Toronto, Canada",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
-   "Email": "vicky.kuo.contact@gmail.com"
+   "Name": "Jana",
+   "Full_Name": "Jana Aljouni",
+   "Intro": "A junior data scientist with a strong passion and hands-on experience in machine
+learning, data analysis and software engineering. Known for problem-solving skills,
+leadership skills, and a proactive approach to learning new technologies.",
+   "About":"Hey there, I'm Jana! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business.",
+   "City":"Khobar, Saudi Arabia",
+   "Email": "aljounijana@gmail.com"
 }
 
 embed_rss= {
