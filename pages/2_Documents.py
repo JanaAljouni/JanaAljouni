@@ -17,7 +17,7 @@ st.write('Below you can find all the downloadable documents')
 with open("images/resume.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
-with open("/images/GP1.pdf", "rb") as pdf_file:
+with open("images/GP1.pdf", "rb") as pdf_file:
     PDFbyte1 = pdf_file.read()
 
 with open("images/Transcript .pdf", "rb") as pdf_file:
