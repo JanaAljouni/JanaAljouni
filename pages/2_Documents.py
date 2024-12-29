@@ -14,16 +14,16 @@ st.title("💻 Documents")
 st.write('Below you can find all the downloadable documents')
 
 
-with open("\\portfolio-template\\images\\resume.pdf", "rb") as pdf_file:
+with open("images/resume.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
-with open("\\portfolio-template\\images\\GP1.pdf", "rb") as pdf_file:
+with open("/images/GP1.pdf", "rb") as pdf_file:
     PDFbyte1 = pdf_file.read()
 
-with open("\\portfolio-template\\images\\Transcript .pdf", "rb") as pdf_file:
+with open("images/Transcript .pdf", "rb") as pdf_file:
     PDFbyte2 = pdf_file.read()
 
-with open("\\portfolio-template\\images\\Degree_of_honor.pdf", "rb") as pdf_file:
+with open("images/Degree_of_honor.pdf", "rb") as pdf_file:
     PDFbyte3 = pdf_file.read()
 
 
