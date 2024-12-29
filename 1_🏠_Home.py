@@ -3,18 +3,9 @@ import requests
 from streamlit_lottie import st_lottie
 from streamlit_timeline import timeline
 import streamlit.components.v1 as components
-#from llama_index.core import VectorStoreIndex,SimpleDirectoryReader,ServiceContext,PromptTemplate
-#from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor, ServiceContext
-from llama_index.core.indices import  GPTVectorStoreIndex
-from llama_index.core.readers import SimpleDirectoryReader
-from llama_index.core.service_context import (
-    ServiceContext,
-    set_global_service_context,
-)
 from constant import *
 from PIL import Image
-import openai
-from langchain.chat_models import ChatOpenAI
+
 
 st.set_page_config(page_title='Home' ,layout="wide",page_icon='👧🏻')
 
