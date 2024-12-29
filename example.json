@@ -1,0 +1,197 @@
+
+{
+    "title": {
+
+        "text": {
+          "headline": "A summary of my professional journey",
+          "text": "Below you fill find a timeline of my academic and professional achievements!"
+        }
+    },
+    "events": [
+   
+      {
+       
+        "start_date": {
+          "year": "2020",
+          "month":"7",
+          "day":"20"
+        },
+        "text": {
+          "headline": "Got accepted into Computer Scienece",
+          "text": "King Khalid University"
+        }
+      },
+
+      
+      {
+  
+        "start_date": {
+          "year": "2021",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Entigrum Technical writer",
+          "text": "Wrote an article about flexible learning pathways representing King Khalid University."
+        }
+      },
+
+
+
+      {
+  
+        "start_date": {
+          "year": "2021",
+          "month":"9"
+        },
+        "text": {
+          "headline": "Saudi Competitive Programming Constant",
+          "text": "Ranked among the top 20 programmers by the Ministry of Communications and Information Technology"
+        }
+      }
+      ,
+
+      
+
+      {
+  
+        "start_date": {
+          "year": "2021",
+          "month":"12"
+        },
+        "text": {
+          "headline": "Introduction to Machine Learning, Deep Learning & Python.",
+          "text": "Achieved certification in an introductory course by the Ministry of Communications and Information Technology"
+        }
+      }
+,
+
+
+      {
+  
+        "start_date": {
+          "year": "2022",
+          "month":"3"
+        },
+        "text": {
+          "headline": "KAUST Artificial Intelligence week",
+          "text": "Successfully completed and earned certification in an introductory course on the mathematical bases of data science "
+        }
+      }
+,
+
+{
+  
+  "start_date": {
+    "year": "2022",
+    "month":"6"
+  },
+  "text": {
+    "headline": "Introduction to HTML5 and CSS3 course",
+    "text": "Attended an intensive course on web development by University of Michigan"
+  }
+},
+
+      
+{
+  
+  "start_date": {
+    "year": "2022",
+    "month":"8"
+  },
+  "text": {
+    "headline": "KAUST advanced Artificial Intelligence week",
+    "text": "Awarded a certificate upon completing on computer visison and NLP"
+  }
+},
+
+
+{
+  
+  "start_date": {
+    "year": "2022",
+    "month":"12"
+  },
+  "text": {
+    "headline": "Representative of the Computer Science department for ABET Reaccreditation of Academic Programs.",
+    "text": "Was chosen to represent the computer science department for ABET reaccreditation"
+  }
+},
+
+{
+  
+  "start_date": {
+    "year": "2023",
+    "month":"3"
+  },
+  "text": {
+    "headline": "Innovation Hackathon for Digital Transformation in Healthcare and Medical Education.",
+    "text": "Participated with MONTHER: a psychologist NLP"
+  }
+},
+
+
+{
+  
+  "start_date": {
+    "year": "2023",
+    "month":"7"
+  },
+  "text": {
+    "headline": "Baker Hughes Engineering intern",
+    "text": "worked on developing and optimizing machine learning models using various data analysis techniques that significantly enhanced decision-making processes."
+  }
+},
+
+
+{
+  
+  "start_date": {
+    "year": "2023",
+    "month":"10"
+  },
+  "text": {
+    "headline": "Quantum Analyzer",
+    "text": "Developed a machine learning tool for DNA sequence analysis showcasing proficiency in quantum computing and bioinformatics."
+  }
+},
+
+{
+  
+  "start_date": {
+    "year": "2024",
+    "month":"6"
+  },
+  "text": {
+    "headline": "Graduation!",
+    "text": "Graduated with a first honors degree in computer science in the track 'Intelligent systems'"
+  }
+},
+
+{
+  
+  "start_date": {
+    "year": "2024",
+    "month":"8"
+  },
+  "text": {
+    "headline": "SRACO Communication Design Engineer",
+    "text": "Participated in the development of a service-oriented website and integrated AI technologies to enhance operational efficiency in the office environment."
+  }
+},
+
+{
+  
+  "start_date": {
+    "year": "2024",
+    "month":"10"
+  },
+  "text": {
+    "headline": "Quantum Analyzer Research",
+    "text": "Currently writing a paper on ways of deploying quantum machine learning algorithms on traditional computers"
+  }
+}
+
+
+      
+    ]
+}
